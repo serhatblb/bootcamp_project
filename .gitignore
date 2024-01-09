@@ -1,0 +1,16 @@
+# Created by https://www.toptal.com/developers/gitignore/api/sass,font
+# Edit at https://www.toptal.com/developers/gitignore?templates=sass,font
+
+### Font ###
+*.fnt
+*.fon
+*.otf
+*.ttf
+
+### Sass ###
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# End of https://www.toptal.com/developers/gitignore/api/sass,font
